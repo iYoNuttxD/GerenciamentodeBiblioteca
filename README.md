@@ -29,7 +29,7 @@ O objetivo deste projeto é proporcionar uma solução simples e eficiente para 
 
 1. Clone o repositório do projeto:
    ```bash
-   git clone https://github.com/seuusuario/gerenciador-biblioteca.git
+   git clone https://github.com/iYoNuttxD/GerenciamentodeBiblioteca
    ```
 
 2. Certifique-se de ter o Python instalado em sua máquina. Este projeto foi desenvolvido utilizando Python 3.x.
